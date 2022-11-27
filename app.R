@@ -108,7 +108,7 @@ city.info <- st_as_sf(city.info, coords = c("Longitude", "Latitude"), crs = 4326
 estimates.type <- data.frame("name" = c("rec", "past", "fcast"),
                              "period" = c(paste0("Recent 2001", en.dash, "2020 level"), 
                                           paste0("Historical 1951", en.dash, "1970 level"), 
-                                          paste0("projected 2051", en.dash, "2070 RCP8.5 level")))
+                                          paste0("Projected 2051", en.dash, "2070 RCP8.5 level")))
 
 state.list <- sort(city.info$State)
 city.list <- sort(city.info$City)
