@@ -1,0 +1,1093 @@
+"","Name","Month","Value","P.name","State","Lat","Lon"
+"1","Abilene","January",17,"Abilene","Texas",32.4106,-99.6822
+"2","Abilene","February",17,"Abilene","Texas",32.4106,-99.6822
+"3","Abilene","March",18.9,"Abilene","Texas",32.4106,-99.6822
+"4","Abilene","April",22.2,"Abilene","Texas",32.4106,-99.6822
+"5","Abilene","May",26,"Abilene","Texas",32.4106,-99.6822
+"6","Abilene","June",29.3,"Abilene","Texas",32.4106,-99.6822
+"7","Abilene","July",31.2,"Abilene","Texas",32.4106,-99.6822
+"8","Abilene","August",31.1,"Abilene","Texas",32.4106,-99.6822
+"9","Abilene","September",29.2,"Abilene","Texas",32.4106,-99.6822
+"10","Abilene","October",25.8,"Abilene","Texas",32.4106,-99.6822
+"11","Abilene","November",22,"Abilene","Texas",32.4106,-99.6822
+"12","Abilene","December",18.8,"Abilene","Texas",32.4106,-99.6822
+"13","Albany","January",9.8,"Albany","New York",42.7431,-73.8092
+"14","Albany","February",9,"Albany","New York",42.7431,-73.8092
+"15","Albany","March",9.7,"Albany","New York",42.7431,-73.8092
+"16","Albany","April",12,"Albany","New York",42.7431,-73.8092
+"17","Albany","May",15.1,"Albany","New York",42.7431,-73.8092
+"18","Albany","June",18.2,"Albany","New York",42.7431,-73.8092
+"19","Albany","July",20.5,"Albany","New York",42.7431,-73.8092
+"20","Albany","August",21.4,"Albany","New York",42.7431,-73.8092
+"21","Albany","September",20.6,"Albany","New York",42.7431,-73.8092
+"22","Albany","October",18.3,"Albany","New York",42.7431,-73.8092
+"23","Albany","November",15.2,"Albany","New York",42.7431,-73.8092
+"24","Albany","December",12.1,"Albany","New York",42.7431,-73.8092
+"25","Albuquerque","January",14.2,"Albuquerque","New Mexico",35.0419,-106.6156
+"26","Albuquerque","February",13.8,"Albuquerque","New Mexico",35.0419,-106.6156
+"27","Albuquerque","March",15.1,"Albuquerque","New Mexico",35.0419,-106.6156
+"28","Albuquerque","April",17.8,"Albuquerque","New Mexico",35.0419,-106.6156
+"29","Albuquerque","May",21.2,"Albuquerque","New Mexico",35.0419,-106.6156
+"30","Albuquerque","June",24.4,"Albuquerque","New Mexico",35.0419,-106.6156
+"31","Albuquerque","July",26.5,"Albuquerque","New Mexico",35.0419,-106.6156
+"32","Albuquerque","August",27,"Albuquerque","New Mexico",35.0419,-106.6156
+"33","Albuquerque","September",25.6,"Albuquerque","New Mexico",35.0419,-106.6156
+"34","Albuquerque","October",22.9,"Albuquerque","New Mexico",35.0419,-106.6156
+"35","Albuquerque","November",19.5,"Albuquerque","New Mexico",35.0419,-106.6156
+"36","Albuquerque","December",16.3,"Albuquerque","New Mexico",35.0419,-106.6156
+"37","Amarillo","January",13.1,"Amarillo","Texas",35.2333,-101.7089
+"38","Amarillo","February",12.8,"Amarillo","Texas",35.2333,-101.7089
+"39","Amarillo","March",14.2,"Amarillo","Texas",35.2333,-101.7089
+"40","Amarillo","April",17,"Amarillo","Texas",35.2333,-101.7089
+"41","Amarillo","May",20.5,"Amarillo","Texas",35.2333,-101.7089
+"42","Amarillo","June",23.8,"Amarillo","Texas",35.2333,-101.7089
+"43","Amarillo","July",25.9,"Amarillo","Texas",35.2333,-101.7089
+"44","Amarillo","August",26.3,"Amarillo","Texas",35.2333,-101.7089
+"45","Amarillo","September",24.9,"Amarillo","Texas",35.2333,-101.7089
+"46","Amarillo","October",22,"Amarillo","Texas",35.2333,-101.7089
+"47","Amarillo","November",18.5,"Amarillo","Texas",35.2333,-101.7089
+"48","Amarillo","December",15.2,"Amarillo","Texas",35.2333,-101.7089
+"49","Atlanta","January",17.7,"Atlanta","Georgia",33.63,-84.4417
+"50","Atlanta","February",17.7,"Atlanta","Georgia",33.63,-84.4417
+"51","Atlanta","March",19.2,"Atlanta","Georgia",33.63,-84.4417
+"52","Atlanta","April",22,"Atlanta","Georgia",33.63,-84.4417
+"53","Atlanta","May",25.3,"Atlanta","Georgia",33.63,-84.4417
+"54","Atlanta","June",28.3,"Atlanta","Georgia",33.63,-84.4417
+"55","Atlanta","July",30,"Atlanta","Georgia",33.63,-84.4417
+"56","Atlanta","August",30.2,"Atlanta","Georgia",33.63,-84.4417
+"57","Atlanta","September",28.6,"Atlanta","Georgia",33.63,-84.4417
+"58","Atlanta","October",25.7,"Atlanta","Georgia",33.63,-84.4417
+"59","Atlanta","November",22.4,"Atlanta","Georgia",33.63,-84.4417
+"60","Atlanta","December",19.5,"Atlanta","Georgia",33.63,-84.4417
+"61","Augusta","January",18.3,"Augusta","Georgia",33.3644,-81.9633
+"62","Augusta","February",18.4,"Augusta","Georgia",33.3644,-81.9633
+"63","Augusta","March",20,"Augusta","Georgia",33.3644,-81.9633
+"64","Augusta","April",22.9,"Augusta","Georgia",33.3644,-81.9633
+"65","Augusta","May",26.3,"Augusta","Georgia",33.3644,-81.9633
+"66","Augusta","June",29.3,"Augusta","Georgia",33.3644,-81.9633
+"67","Augusta","July",30.9,"Augusta","Georgia",33.3644,-81.9633
+"68","Augusta","August",30.9,"Augusta","Georgia",33.3644,-81.9633
+"69","Augusta","September",29.2,"Augusta","Georgia",33.3644,-81.9633
+"70","Augusta","October",26.2,"Augusta","Georgia",33.3644,-81.9633
+"71","Augusta","November",22.9,"Augusta","Georgia",33.3644,-81.9633
+"72","Augusta","December",20,"Augusta","Georgia",33.3644,-81.9633
+"73","Baltimore","January",12.9,"Baltimore","Maryland",39.1836,-76.6542
+"74","Baltimore","February",12.4,"Baltimore","Maryland",39.1836,-76.6542
+"75","Baltimore","March",13.7,"Baltimore","Maryland",39.1836,-76.6542
+"76","Baltimore","April",16.5,"Baltimore","Maryland",39.1836,-76.6542
+"77","Baltimore","May",19.9,"Baltimore","Maryland",39.1836,-76.6542
+"78","Baltimore","June",23.2,"Baltimore","Maryland",39.1836,-76.6542
+"79","Baltimore","July",25.3,"Baltimore","Maryland",39.1836,-76.6542
+"80","Baltimore","August",25.8,"Baltimore","Maryland",39.1836,-76.6542
+"81","Baltimore","September",24.5,"Baltimore","Maryland",39.1836,-76.6542
+"82","Baltimore","October",21.7,"Baltimore","Maryland",39.1836,-76.6542
+"83","Baltimore","November",18.3,"Baltimore","Maryland",39.1836,-76.6542
+"84","Baltimore","December",15,"Baltimore","Maryland",39.1836,-76.6542
+"85","Bismarck","January",6,"Bismarck","North Dakota",46.7708,-100.7603
+"86","Bismarck","February",4.9,"Bismarck","North Dakota",46.7708,-100.7603
+"87","Bismarck","March",5.3,"Bismarck","North Dakota",46.7708,-100.7603
+"88","Bismarck","April",7.3,"Bismarck","North Dakota",46.7708,-100.7603
+"89","Bismarck","May",10.4,"Bismarck","North Dakota",46.7708,-100.7603
+"90","Bismarck","June",13.7,"Bismarck","North Dakota",46.7708,-100.7603
+"91","Bismarck","July",16.4,"Bismarck","North Dakota",46.7708,-100.7603
+"92","Bismarck","August",17.6,"Bismarck","North Dakota",46.7708,-100.7603
+"93","Bismarck","September",17.1,"Bismarck","North Dakota",46.7708,-100.7603
+"94","Bismarck","October",15.1,"Bismarck","North Dakota",46.7708,-100.7603
+"95","Bismarck","November",12,"Bismarck","North Dakota",46.7708,-100.7603
+"96","Bismarck","December",8.7,"Bismarck","North Dakota",46.7708,-100.7603
+"97","Boise","January",11.8,"Boise","Idaho",43.5667,-116.2406
+"98","Boise","February",11.1,"Boise","Idaho",43.5667,-116.2406
+"99","Boise","March",12.1,"Boise","Idaho",43.5667,-116.2406
+"100","Boise","April",14.7,"Boise","Idaho",43.5667,-116.2406
+"101","Boise","May",18.2,"Boise","Idaho",43.5667,-116.2406
+"102","Boise","June",21.5,"Boise","Idaho",43.5667,-116.2406
+"103","Boise","July",23.9,"Boise","Idaho",43.5667,-116.2406
+"104","Boise","August",24.7,"Boise","Idaho",43.5667,-116.2406
+"105","Boise","September",23.6,"Boise","Idaho",43.5667,-116.2406
+"106","Boise","October",21,"Boise","Idaho",43.5667,-116.2406
+"107","Boise","November",17.5,"Boise","Idaho",43.5667,-116.2406
+"108","Boise","December",14.2,"Boise","Idaho",43.5667,-116.2406
+"109","Boston","January",11.5,"Boston","Massachusetts",42.3606,-71.0106
+"110","Boston","February",10.9,"Boston","Massachusetts",42.3606,-71.0106
+"111","Boston","March",11.7,"Boston","Massachusetts",42.3606,-71.0106
+"112","Boston","April",14,"Boston","Massachusetts",42.3606,-71.0106
+"113","Boston","May",17,"Boston","Massachusetts",42.3606,-71.0106
+"114","Boston","June",20,"Boston","Massachusetts",42.3606,-71.0106
+"115","Boston","July",22.1,"Boston","Massachusetts",42.3606,-71.0106
+"116","Boston","August",22.8,"Boston","Massachusetts",42.3606,-71.0106
+"117","Boston","September",21.9,"Boston","Massachusetts",42.3606,-71.0106
+"118","Boston","October",19.6,"Boston","Massachusetts",42.3606,-71.0106
+"119","Boston","November",16.6,"Boston","Massachusetts",42.3606,-71.0106
+"120","Boston","December",13.6,"Boston","Massachusetts",42.3606,-71.0106
+"121","CedarRapids","January",7.7,"Cedar Rapids","Iowa",41.8833,-91.7167
+"122","CedarRapids","February",6.8,"Cedar Rapids","Iowa",41.8833,-91.7167
+"123","CedarRapids","March",7.8,"Cedar Rapids","Iowa",41.8833,-91.7167
+"124","CedarRapids","April",10.3,"Cedar Rapids","Iowa",41.8833,-91.7167
+"125","CedarRapids","May",13.8,"Cedar Rapids","Iowa",41.8833,-91.7167
+"126","CedarRapids","June",17.3,"Cedar Rapids","Iowa",41.8833,-91.7167
+"127","CedarRapids","July",19.9,"Cedar Rapids","Iowa",41.8833,-91.7167
+"128","CedarRapids","August",20.9,"Cedar Rapids","Iowa",41.8833,-91.7167
+"129","CedarRapids","September",19.9,"Cedar Rapids","Iowa",41.8833,-91.7167
+"130","CedarRapids","October",17.3,"Cedar Rapids","Iowa",41.8833,-91.7167
+"131","CedarRapids","November",13.8,"Cedar Rapids","Iowa",41.8833,-91.7167
+"132","CedarRapids","December",10.3,"Cedar Rapids","Iowa",41.8833,-91.7167
+"133","Charlotte","January",16.4,"Charlotte","North Carolina",35.2236,-80.9553
+"134","Charlotte","February",16.2,"Charlotte","North Carolina",35.2236,-80.9553
+"135","Charlotte","March",17.7,"Charlotte","North Carolina",35.2236,-80.9553
+"136","Charlotte","April",20.5,"Charlotte","North Carolina",35.2236,-80.9553
+"137","Charlotte","May",23.8,"Charlotte","North Carolina",35.2236,-80.9553
+"138","Charlotte","June",26.8,"Charlotte","North Carolina",35.2236,-80.9553
+"139","Charlotte","July",28.7,"Charlotte","North Carolina",35.2236,-80.9553
+"140","Charlotte","August",28.9,"Charlotte","North Carolina",35.2236,-80.9553
+"141","Charlotte","September",27.3,"Charlotte","North Carolina",35.2236,-80.9553
+"142","Charlotte","October",24.5,"Charlotte","North Carolina",35.2236,-80.9553
+"143","Charlotte","November",21.2,"Charlotte","North Carolina",35.2236,-80.9553
+"144","Charlotte","December",18.2,"Charlotte","North Carolina",35.2236,-80.9553
+"145","Chattanooga","January",16.6,"Chattanooga","Tennessee",35.0311,-85.2014
+"146","Chattanooga","February",16.4,"Chattanooga","Tennessee",35.0311,-85.2014
+"147","Chattanooga","March",18,"Chattanooga","Tennessee",35.0311,-85.2014
+"148","Chattanooga","April",20.9,"Chattanooga","Tennessee",35.0311,-85.2014
+"149","Chattanooga","May",24.5,"Chattanooga","Tennessee",35.0311,-85.2014
+"150","Chattanooga","June",27.8,"Chattanooga","Tennessee",35.0311,-85.2014
+"151","Chattanooga","July",29.7,"Chattanooga","Tennessee",35.0311,-85.2014
+"152","Chattanooga","August",29.9,"Chattanooga","Tennessee",35.0311,-85.2014
+"153","Chattanooga","September",28.3,"Chattanooga","Tennessee",35.0311,-85.2014
+"154","Chattanooga","October",25.3,"Chattanooga","Tennessee",35.0311,-85.2014
+"155","Chattanooga","November",21.7,"Chattanooga","Tennessee",35.0311,-85.2014
+"156","Chattanooga","December",18.5,"Chattanooga","Tennessee",35.0311,-85.2014
+"157","Cheyenne","January",9.3,"Cheyenne","Wyoming",41.1519,-104.8061
+"158","Cheyenne","February",8.5,"Cheyenne","Wyoming",41.1519,-104.8061
+"159","Cheyenne","March",9,"Cheyenne","Wyoming",41.1519,-104.8061
+"160","Cheyenne","April",10.9,"Cheyenne","Wyoming",41.1519,-104.8061
+"161","Cheyenne","May",13.5,"Cheyenne","Wyoming",41.1519,-104.8061
+"162","Cheyenne","June",16.2,"Cheyenne","Wyoming",41.1519,-104.8061
+"163","Cheyenne","July",18.3,"Cheyenne","Wyoming",41.1519,-104.8061
+"164","Cheyenne","August",19.2,"Cheyenne","Wyoming",41.1519,-104.8061
+"165","Cheyenne","September",18.6,"Cheyenne","Wyoming",41.1519,-104.8061
+"166","Cheyenne","October",16.7,"Cheyenne","Wyoming",41.1519,-104.8061
+"167","Cheyenne","November",14.1,"Cheyenne","Wyoming",41.1519,-104.8061
+"168","Cheyenne","December",11.4,"Cheyenne","Wyoming",41.1519,-104.8061
+"169","Chicago","January",9.9,"Chicago","Illinois",41.995,-87.9336
+"170","Chicago","February",9.1,"Chicago","Illinois",41.995,-87.9336
+"171","Chicago","March",10,"Chicago","Illinois",41.995,-87.9336
+"172","Chicago","April",12.6,"Chicago","Illinois",41.995,-87.9336
+"173","Chicago","May",16,"Chicago","Illinois",41.995,-87.9336
+"174","Chicago","June",19.4,"Chicago","Illinois",41.995,-87.9336
+"175","Chicago","July",21.9,"Chicago","Illinois",41.995,-87.9336
+"176","Chicago","August",22.8,"Chicago","Illinois",41.995,-87.9336
+"177","Chicago","September",21.8,"Chicago","Illinois",41.995,-87.9336
+"178","Chicago","October",19.2,"Chicago","Illinois",41.995,-87.9336
+"179","Chicago","November",15.7,"Chicago","Illinois",41.995,-87.9336
+"180","Chicago","December",12.3,"Chicago","Illinois",41.995,-87.9336
+"181","ColoradoSprings","January",10.9,"Colorado Springs","Colorado",38.81,-104.6883
+"182","ColoradoSprings","February",10.2,"Colorado Springs","Colorado",38.81,-104.6883
+"183","ColoradoSprings","March",11,"Colorado Springs","Colorado",38.81,-104.6883
+"184","ColoradoSprings","April",13.1,"Colorado Springs","Colorado",38.81,-104.6883
+"185","ColoradoSprings","May",16,"Colorado Springs","Colorado",38.81,-104.6883
+"186","ColoradoSprings","June",19,"Colorado Springs","Colorado",38.81,-104.6883
+"187","ColoradoSprings","July",21.2,"Colorado Springs","Colorado",38.81,-104.6883
+"188","ColoradoSprings","August",22,"Colorado Springs","Colorado",38.81,-104.6883
+"189","ColoradoSprings","September",21.2,"Colorado Springs","Colorado",38.81,-104.6883
+"190","ColoradoSprings","October",19,"Colorado Springs","Colorado",38.81,-104.6883
+"191","ColoradoSprings","November",16,"Colorado Springs","Colorado",38.81,-104.6883
+"192","ColoradoSprings","December",13.1,"Colorado Springs","Colorado",38.81,-104.6883
+"193","ColumbiaSC","January",18.6,"Columbia","South Carolina",33.9486,-81.1186
+"194","ColumbiaSC","February",18.6,"Columbia","South Carolina",33.9486,-81.1186
+"195","ColumbiaSC","March",20.3,"Columbia","South Carolina",33.9486,-81.1186
+"196","ColumbiaSC","April",23.4,"Columbia","South Carolina",33.9486,-81.1186
+"197","ColumbiaSC","May",26.9,"Columbia","South Carolina",33.9486,-81.1186
+"198","ColumbiaSC","June",29.9,"Columbia","South Carolina",33.9486,-81.1186
+"199","ColumbiaSC","July",31.7,"Columbia","South Carolina",33.9486,-81.1186
+"200","ColumbiaSC","August",31.7,"Columbia","South Carolina",33.9486,-81.1186
+"201","ColumbiaSC","September",29.9,"Columbia","South Carolina",33.9486,-81.1186
+"202","ColumbiaSC","October",26.9,"Columbia","South Carolina",33.9486,-81.1186
+"203","ColumbiaSC","November",23.4,"Columbia","South Carolina",33.9486,-81.1186
+"204","ColumbiaSC","December",20.3,"Columbia","South Carolina",33.9486,-81.1186
+"205","ColumbusOH","January",12,"Columbus","Ohio",39.9914,-82.8808
+"206","ColumbusOH","February",11.4,"Columbus","Ohio",39.9914,-82.8808
+"207","ColumbusOH","March",12.5,"Columbus","Ohio",39.9914,-82.8808
+"208","ColumbusOH","April",15.1,"Columbus","Ohio",39.9914,-82.8808
+"209","ColumbusOH","May",18.5,"Columbus","Ohio",39.9914,-82.8808
+"210","ColumbusOH","June",21.8,"Columbus","Ohio",39.9914,-82.8808
+"211","ColumbusOH","July",24.2,"Columbus","Ohio",39.9914,-82.8808
+"212","ColumbusOH","August",24.9,"Columbus","Ohio",39.9914,-82.8808
+"213","ColumbusOH","September",23.7,"Columbus","Ohio",39.9914,-82.8808
+"214","ColumbusOH","October",21,"Columbus","Ohio",39.9914,-82.8808
+"215","ColumbusOH","November",17.6,"Columbus","Ohio",39.9914,-82.8808
+"216","ColumbusOH","December",14.3,"Columbus","Ohio",39.9914,-82.8808
+"217","Concord","January",9.5,"Concord","New Hampshire",43.1953,-71.5011
+"218","Concord","February",8.6,"Concord","New Hampshire",43.1953,-71.5011
+"219","Concord","March",9.2,"Concord","New Hampshire",43.1953,-71.5011
+"220","Concord","April",11.3,"Concord","New Hampshire",43.1953,-71.5011
+"221","Concord","May",14.2,"Concord","New Hampshire",43.1953,-71.5011
+"222","Concord","June",17.3,"Concord","New Hampshire",43.1953,-71.5011
+"223","Concord","July",19.6,"Concord","New Hampshire",43.1953,-71.5011
+"224","Concord","August",20.6,"Concord","New Hampshire",43.1953,-71.5011
+"225","Concord","September",19.9,"Concord","New Hampshire",43.1953,-71.5011
+"226","Concord","October",17.8,"Concord","New Hampshire",43.1953,-71.5011
+"227","Concord","November",14.8,"Concord","New Hampshire",43.1953,-71.5011
+"228","Concord","December",11.8,"Concord","New Hampshire",43.1953,-71.5011
+"229","Concordia","January",10.9,"Concordia","Kansas",39.5514,-97.6508
+"230","Concordia","February",10.2,"Concordia","Kansas",39.5514,-97.6508
+"231","Concordia","March",11.6,"Concordia","Kansas",39.5514,-97.6508
+"232","Concordia","April",14.6,"Concordia","Kansas",39.5514,-97.6508
+"233","Concordia","May",18.6,"Concordia","Kansas",39.5514,-97.6508
+"234","Concordia","June",22.3,"Concordia","Kansas",39.5514,-97.6508
+"235","Concordia","July",24.9,"Concordia","Kansas",39.5514,-97.6508
+"236","Concordia","August",25.6,"Concordia","Kansas",39.5514,-97.6508
+"237","Concordia","September",24.3,"Concordia","Kansas",39.5514,-97.6508
+"238","Concordia","October",21.1,"Concordia","Kansas",39.5514,-97.6508
+"239","Concordia","November",17.2,"Concordia","Kansas",39.5514,-97.6508
+"240","Concordia","December",13.4,"Concordia","Kansas",39.5514,-97.6508
+"241","CorpusChristi","January",22.5,"Corpus Christi","Texas",27.8,-97.4
+"242","CorpusChristi","February",22.9,"Corpus Christi","Texas",27.8,-97.4
+"243","CorpusChristi","March",24.6,"Corpus Christi","Texas",27.8,-97.4
+"244","CorpusChristi","April",27.3,"Corpus Christi","Texas",27.8,-97.4
+"245","CorpusChristi","May",30.2,"Corpus Christi","Texas",27.8,-97.4
+"246","CorpusChristi","June",32.6,"Corpus Christi","Texas",27.8,-97.4
+"247","CorpusChristi","July",33.7,"Corpus Christi","Texas",27.8,-97.4
+"248","CorpusChristi","August",33.3,"Corpus Christi","Texas",27.8,-97.4
+"249","CorpusChristi","September",31.5,"Corpus Christi","Texas",27.8,-97.4
+"250","CorpusChristi","October",28.8,"Corpus Christi","Texas",27.8,-97.4
+"251","CorpusChristi","November",25.9,"Corpus Christi","Texas",27.8,-97.4
+"252","CorpusChristi","December",23.6,"Corpus Christi","Texas",27.8,-97.4
+"253","DallasFortWorth","January",17.3,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"254","DallasFortWorth","February",17.5,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"255","DallasFortWorth","March",19.5,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"256","DallasFortWorth","April",23,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"257","DallasFortWorth","May",27,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"258","DallasFortWorth","June",30.4,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"259","DallasFortWorth","July",32.3,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"260","DallasFortWorth","August",32.2,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"261","DallasFortWorth","September",30,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"262","DallasFortWorth","October",26.5,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"263","DallasFortWorth","November",22.5,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"264","DallasFortWorth","December",19.1,"Dallas Fort Worth","Texas",32.8978,-97.0189
+"265","Denver","January",9.1,"Denver","Colorado",39.8328,-104.6575
+"266","Denver","February",8.4,"Denver","Colorado",39.8328,-104.6575
+"267","Denver","March",9.4,"Denver","Colorado",39.8328,-104.6575
+"268","Denver","April",11.7,"Denver","Colorado",39.8328,-104.6575
+"269","Denver","May",14.9,"Denver","Colorado",39.8328,-104.6575
+"270","Denver","June",18.1,"Denver","Colorado",39.8328,-104.6575
+"271","Denver","July",20.4,"Denver","Colorado",39.8328,-104.6575
+"272","Denver","August",21.1,"Denver","Colorado",39.8328,-104.6575
+"273","Denver","September",20.2,"Denver","Colorado",39.8328,-104.6575
+"274","Denver","October",17.7,"Denver","Colorado",39.8328,-104.6575
+"275","Denver","November",14.5,"Denver","Colorado",39.8328,-104.6575
+"276","Denver","December",11.4,"Denver","Colorado",39.8328,-104.6575
+"277","DesMoines","January",10.1,"Des Moines","Iowa",41.5339,-93.6531
+"278","DesMoines","February",9.2,"Des Moines","Iowa",41.5339,-93.6531
+"279","DesMoines","March",10.3,"Des Moines","Iowa",41.5339,-93.6531
+"280","DesMoines","April",13.1,"Des Moines","Iowa",41.5339,-93.6531
+"281","DesMoines","May",16.9,"Des Moines","Iowa",41.5339,-93.6531
+"282","DesMoines","June",20.6,"Des Moines","Iowa",41.5339,-93.6531
+"283","DesMoines","July",23.3,"Des Moines","Iowa",41.5339,-93.6531
+"284","DesMoines","August",24.2,"Des Moines","Iowa",41.5339,-93.6531
+"285","DesMoines","September",23.1,"Des Moines","Iowa",41.5339,-93.6531
+"286","DesMoines","October",20.3,"Des Moines","Iowa",41.5339,-93.6531
+"287","DesMoines","November",16.5,"Des Moines","Iowa",41.5339,-93.6531
+"288","DesMoines","December",12.8,"Des Moines","Iowa",41.5339,-93.6531
+"289","Detroit","January",10.8,"Detroit","Michigan",42.2314,-83.3308
+"290","Detroit","February",10,"Detroit","Michigan",42.2314,-83.3308
+"291","Detroit","March",10.9,"Detroit","Michigan",42.2314,-83.3308
+"292","Detroit","April",13.2,"Detroit","Michigan",42.2314,-83.3308
+"293","Detroit","May",16.5,"Detroit","Michigan",42.2314,-83.3308
+"294","Detroit","June",19.7,"Detroit","Michigan",42.2314,-83.3308
+"295","Detroit","July",22,"Detroit","Michigan",42.2314,-83.3308
+"296","Detroit","August",22.8,"Detroit","Michigan",42.2314,-83.3308
+"297","Detroit","September",21.9,"Detroit","Michigan",42.2314,-83.3308
+"298","Detroit","October",19.5,"Detroit","Michigan",42.2314,-83.3308
+"299","Detroit","November",16.3,"Detroit","Michigan",42.2314,-83.3308
+"300","Detroit","December",13.1,"Detroit","Michigan",42.2314,-83.3308
+"301","DodgeCity","January",11.3,"Dodge City","Kansas",37.7608,-99.9683
+"302","DodgeCity","February",10.8,"Dodge City","Kansas",37.7608,-99.9683
+"303","DodgeCity","March",12.1,"Dodge City","Kansas",37.7608,-99.9683
+"304","DodgeCity","April",15,"Dodge City","Kansas",37.7608,-99.9683
+"305","DodgeCity","May",18.8,"Dodge City","Kansas",37.7608,-99.9683
+"306","DodgeCity","June",22.4,"Dodge City","Kansas",37.7608,-99.9683
+"307","DodgeCity","July",24.8,"Dodge City","Kansas",37.7608,-99.9683
+"308","DodgeCity","August",25.4,"Dodge City","Kansas",37.7608,-99.9683
+"309","DodgeCity","September",24,"Dodge City","Kansas",37.7608,-99.9683
+"310","DodgeCity","October",21,"Dodge City","Kansas",37.7608,-99.9683
+"311","DodgeCity","November",17.2,"Dodge City","Kansas",37.7608,-99.9683
+"312","DodgeCity","December",13.7,"Dodge City","Kansas",37.7608,-99.9683
+"313","Dubuque","January",7.4,"Dubuque","Iowa",42.3978,-90.7036
+"314","Dubuque","February",6.5,"Dubuque","Iowa",42.3978,-90.7036
+"315","Dubuque","March",7.4,"Dubuque","Iowa",42.3978,-90.7036
+"316","Dubuque","April",9.8,"Dubuque","Iowa",42.3978,-90.7036
+"317","Dubuque","May",13.2,"Dubuque","Iowa",42.3978,-90.7036
+"318","Dubuque","June",16.7,"Dubuque","Iowa",42.3978,-90.7036
+"319","Dubuque","July",19.3,"Dubuque","Iowa",42.3978,-90.7036
+"320","Dubuque","August",20.3,"Dubuque","Iowa",42.3978,-90.7036
+"321","Dubuque","September",19.4,"Dubuque","Iowa",42.3978,-90.7036
+"322","Dubuque","October",16.9,"Dubuque","Iowa",42.3978,-90.7036
+"323","Dubuque","November",13.5,"Dubuque","Iowa",42.3978,-90.7036
+"324","Dubuque","December",10,"Dubuque","Iowa",42.3978,-90.7036
+"325","Duluth","January",6.2,"Duluth","Minnesota",46.8369,-92.2097
+"326","Duluth","February",5,"Duluth","Minnesota",46.8369,-92.2097
+"327","Duluth","March",5.3,"Duluth","Minnesota",46.8369,-92.2097
+"328","Duluth","April",7,"Duluth","Minnesota",46.8369,-92.2097
+"329","Duluth","May",9.7,"Duluth","Minnesota",46.8369,-92.2097
+"330","Duluth","June",12.7,"Duluth","Minnesota",46.8369,-92.2097
+"331","Duluth","July",15.2,"Duluth","Minnesota",46.8369,-92.2097
+"332","Duluth","August",16.4,"Duluth","Minnesota",46.8369,-92.2097
+"333","Duluth","September",16.1,"Duluth","Minnesota",46.8369,-92.2097
+"334","Duluth","October",14.4,"Duluth","Minnesota",46.8369,-92.2097
+"335","Duluth","November",11.6,"Duluth","Minnesota",46.8369,-92.2097
+"336","Duluth","December",8.7,"Duluth","Minnesota",46.8369,-92.2097
+"337","EauClaire","January",6.6,"Eau Claire","Wisconsin",44.8664,-91.4878
+"338","EauClaire","February",5.5,"Eau Claire","Wisconsin",44.8664,-91.4878
+"339","EauClaire","March",6.1,"Eau Claire","Wisconsin",44.8664,-91.4878
+"340","EauClaire","April",8.4,"Eau Claire","Wisconsin",44.8664,-91.4878
+"341","EauClaire","May",11.7,"Eau Claire","Wisconsin",44.8664,-91.4878
+"342","EauClaire","June",15.1,"Eau Claire","Wisconsin",44.8664,-91.4878
+"343","EauClaire","July",17.8,"Eau Claire","Wisconsin",44.8664,-91.4878
+"344","EauClaire","August",19,"Eau Claire","Wisconsin",44.8664,-91.4878
+"345","EauClaire","September",18.3,"Eau Claire","Wisconsin",44.8664,-91.4878
+"346","EauClaire","October",16,"Eau Claire","Wisconsin",44.8664,-91.4878
+"347","EauClaire","November",12.7,"Eau Claire","Wisconsin",44.8664,-91.4878
+"348","EauClaire","December",9.2,"Eau Claire","Wisconsin",44.8664,-91.4878
+"349","Erie","January",11.2,"Erie","Pennsylvania",42.08,-80.1825
+"350","Erie","February",10.5,"Erie","Pennsylvania",42.08,-80.1825
+"351","Erie","March",11.3,"Erie","Pennsylvania",42.08,-80.1825
+"352","Erie","April",13.5,"Erie","Pennsylvania",42.08,-80.1825
+"353","Erie","May",16.4,"Erie","Pennsylvania",42.08,-80.1825
+"354","Erie","June",19.4,"Erie","Pennsylvania",42.08,-80.1825
+"355","Erie","July",21.6,"Erie","Pennsylvania",42.08,-80.1825
+"356","Erie","August",22.4,"Erie","Pennsylvania",42.08,-80.1825
+"357","Erie","September",21.6,"Erie","Pennsylvania",42.08,-80.1825
+"358","Erie","October",19.3,"Erie","Pennsylvania",42.08,-80.1825
+"359","Erie","November",16.3,"Erie","Pennsylvania",42.08,-80.1825
+"360","Erie","December",13.3,"Erie","Pennsylvania",42.08,-80.1825
+"361","Eureka","January",14.2,"Eureka","California",40.8097,-124.1603
+"362","Eureka","February",14,"Eureka","California",40.8097,-124.1603
+"363","Eureka","March",14.3,"Eureka","California",40.8097,-124.1603
+"364","Eureka","April",15.1,"Eureka","California",40.8097,-124.1603
+"365","Eureka","May",16.1,"Eureka","California",40.8097,-124.1603
+"366","Eureka","June",17.1,"Eureka","California",40.8097,-124.1603
+"367","Eureka","July",17.8,"Eureka","California",40.8097,-124.1603
+"368","Eureka","August",18,"Eureka","California",40.8097,-124.1603
+"369","Eureka","September",17.7,"Eureka","California",40.8097,-124.1603
+"370","Eureka","October",16.9,"Eureka","California",40.8097,-124.1603
+"371","Eureka","November",15.9,"Eureka","California",40.8097,-124.1603
+"372","Eureka","December",14.9,"Eureka","California",40.8097,-124.1603
+"373","Evansville","January",12.6,"Evansville","Indiana",38.0442,-87.5206
+"374","Evansville","February",12.2,"Evansville","Indiana",38.0442,-87.5206
+"375","Evansville","March",13.6,"Evansville","Indiana",38.0442,-87.5206
+"376","Evansville","April",16.6,"Evansville","Indiana",38.0442,-87.5206
+"377","Evansville","May",20.3,"Evansville","Indiana",38.0442,-87.5206
+"378","Evansville","June",23.7,"Evansville","Indiana",38.0442,-87.5206
+"379","Evansville","July",26,"Evansville","Indiana",38.0442,-87.5206
+"380","Evansville","August",26.5,"Evansville","Indiana",38.0442,-87.5206
+"381","Evansville","September",25,"Evansville","Indiana",38.0442,-87.5206
+"382","Evansville","October",22,"Evansville","Indiana",38.0442,-87.5206
+"383","Evansville","November",18.3,"Evansville","Indiana",38.0442,-87.5206
+"384","Evansville","December",14.8,"Evansville","Indiana",38.0442,-87.5206
+"385","Fargo","January",5.7,"Fargo","North Dakota",46.9253,-96.8111
+"386","Fargo","February",4.4,"Fargo","North Dakota",46.9253,-96.8111
+"387","Fargo","March",4.8,"Fargo","North Dakota",46.9253,-96.8111
+"388","Fargo","April",6.9,"Fargo","North Dakota",46.9253,-96.8111
+"389","Fargo","May",10.1,"Fargo","North Dakota",46.9253,-96.8111
+"390","Fargo","June",13.5,"Fargo","North Dakota",46.9253,-96.8111
+"391","Fargo","July",16.3,"Fargo","North Dakota",46.9253,-96.8111
+"392","Fargo","August",17.6,"Fargo","North Dakota",46.9253,-96.8111
+"393","Fargo","September",17.2,"Fargo","North Dakota",46.9253,-96.8111
+"394","Fargo","October",15.1,"Fargo","North Dakota",46.9253,-96.8111
+"395","Fargo","November",11.9,"Fargo","North Dakota",46.9253,-96.8111
+"396","Fargo","December",8.4,"Fargo","North Dakota",46.9253,-96.8111
+"397","Flagstaff","January",9.8,"Flagstaff","Arizona",35.1442,-111.6664
+"398","Flagstaff","February",9.1,"Flagstaff","Arizona",35.1442,-111.6664
+"399","Flagstaff","March",9.6,"Flagstaff","Arizona",35.1442,-111.6664
+"400","Flagstaff","April",11.2,"Flagstaff","Arizona",35.1442,-111.6664
+"401","Flagstaff","May",13.5,"Flagstaff","Arizona",35.1442,-111.6664
+"402","Flagstaff","June",16,"Flagstaff","Arizona",35.1442,-111.6664
+"403","Flagstaff","July",17.8,"Flagstaff","Arizona",35.1442,-111.6664
+"404","Flagstaff","August",18.5,"Flagstaff","Arizona",35.1442,-111.6664
+"405","Flagstaff","September",18,"Flagstaff","Arizona",35.1442,-111.6664
+"406","Flagstaff","October",16.3,"Flagstaff","Arizona",35.1442,-111.6664
+"407","Flagstaff","November",14,"Flagstaff","Arizona",35.1442,-111.6664
+"408","Flagstaff","December",11.6,"Flagstaff","Arizona",35.1442,-111.6664
+"409","FortSmith","January",15.3,"Fort Smith","Arkansas",35.3331,-94.3625
+"410","FortSmith","February",15.1,"Fort Smith","Arkansas",35.3331,-94.3625
+"411","FortSmith","March",16.9,"Fort Smith","Arkansas",35.3331,-94.3625
+"412","FortSmith","April",20.2,"Fort Smith","Arkansas",35.3331,-94.3625
+"413","FortSmith","May",24.2,"Fort Smith","Arkansas",35.3331,-94.3625
+"414","FortSmith","June",27.7,"Fort Smith","Arkansas",35.3331,-94.3625
+"415","FortSmith","July",29.8,"Fort Smith","Arkansas",35.3331,-94.3625
+"416","FortSmith","August",30,"Fort Smith","Arkansas",35.3331,-94.3625
+"417","FortSmith","September",28.1,"Fort Smith","Arkansas",35.3331,-94.3625
+"418","FortSmith","October",24.8,"Fort Smith","Arkansas",35.3331,-94.3625
+"419","FortSmith","November",20.8,"Fort Smith","Arkansas",35.3331,-94.3625
+"420","FortSmith","December",17.3,"Fort Smith","Arkansas",35.3331,-94.3625
+"421","Fresno","January",19.5,"Fresno","California",36.78,-119.7194
+"422","Fresno","February",19.5,"Fresno","California",36.78,-119.7194
+"423","Fresno","March",21.1,"Fresno","California",36.78,-119.7194
+"424","Fresno","April",23.9,"Fresno","California",36.78,-119.7194
+"425","Fresno","May",27.3,"Fresno","California",36.78,-119.7194
+"426","Fresno","June",30.2,"Fresno","California",36.78,-119.7194
+"427","Fresno","July",31.9,"Fresno","California",36.78,-119.7194
+"428","Fresno","August",31.9,"Fresno","California",36.78,-119.7194
+"429","Fresno","September",30.2,"Fresno","California",36.78,-119.7194
+"430","Fresno","October",27.4,"Fresno","California",36.78,-119.7194
+"431","Fresno","November",24,"Fresno","California",36.78,-119.7194
+"432","Fresno","December",21.1,"Fresno","California",36.78,-119.7194
+"433","GrandJunction","January",10.5,"Grand Junction","Colorado",39.1342,-108.54
+"434","GrandJunction","February",9.9,"Grand Junction","Colorado",39.1342,-108.54
+"435","GrandJunction","March",11.1,"Grand Junction","Colorado",39.1342,-108.54
+"436","GrandJunction","April",13.9,"Grand Junction","Colorado",39.1342,-108.54
+"437","GrandJunction","May",17.7,"Grand Junction","Colorado",39.1342,-108.54
+"438","GrandJunction","June",21.3,"Grand Junction","Colorado",39.1342,-108.54
+"439","GrandJunction","July",23.8,"Grand Junction","Colorado",39.1342,-108.54
+"440","GrandJunction","August",24.5,"Grand Junction","Colorado",39.1342,-108.54
+"441","GrandJunction","September",23.3,"Grand Junction","Colorado",39.1342,-108.54
+"442","GrandJunction","October",20.4,"Grand Junction","Colorado",39.1342,-108.54
+"443","GrandJunction","November",16.6,"Grand Junction","Colorado",39.1342,-108.54
+"444","GrandJunction","December",13,"Grand Junction","Colorado",39.1342,-108.54
+"445","GrandRapids","January",10,"Grand Rapids","Michigan",42.8939,-85.5447
+"446","GrandRapids","February",9.2,"Grand Rapids","Michigan",42.8939,-85.5447
+"447","GrandRapids","March",10,"Grand Rapids","Michigan",42.8939,-85.5447
+"448","GrandRapids","April",12.2,"Grand Rapids","Michigan",42.8939,-85.5447
+"449","GrandRapids","May",15.3,"Grand Rapids","Michigan",42.8939,-85.5447
+"450","GrandRapids","June",18.5,"Grand Rapids","Michigan",42.8939,-85.5447
+"451","GrandRapids","July",20.8,"Grand Rapids","Michigan",42.8939,-85.5447
+"452","GrandRapids","August",21.7,"Grand Rapids","Michigan",42.8939,-85.5447
+"453","GrandRapids","September",20.9,"Grand Rapids","Michigan",42.8939,-85.5447
+"454","GrandRapids","October",18.6,"Grand Rapids","Michigan",42.8939,-85.5447
+"455","GrandRapids","November",15.4,"Grand Rapids","Michigan",42.8939,-85.5447
+"456","GrandRapids","December",12.3,"Grand Rapids","Michigan",42.8939,-85.5447
+"457","GreenBay","January",8.6,"Green Bay","Wisconsin",44.4983,-88.1111
+"458","GreenBay","February",7.6,"Green Bay","Wisconsin",44.4983,-88.1111
+"459","GreenBay","March",8.2,"Green Bay","Wisconsin",44.4983,-88.1111
+"460","GreenBay","April",10.3,"Green Bay","Wisconsin",44.4983,-88.1111
+"461","GreenBay","May",13.3,"Green Bay","Wisconsin",44.4983,-88.1111
+"462","GreenBay","June",16.5,"Green Bay","Wisconsin",44.4983,-88.1111
+"463","GreenBay","July",19,"Green Bay","Wisconsin",44.4983,-88.1111
+"464","GreenBay","August",20,"Green Bay","Wisconsin",44.4983,-88.1111
+"465","GreenBay","September",19.4,"Green Bay","Wisconsin",44.4983,-88.1111
+"466","GreenBay","October",17.3,"Green Bay","Wisconsin",44.4983,-88.1111
+"467","GreenBay","November",14.2,"Green Bay","Wisconsin",44.4983,-88.1111
+"468","GreenBay","December",11,"Green Bay","Wisconsin",44.4983,-88.1111
+"469","Havre","January",5.2,"Havre","Montana",48.5428,-109.7633
+"470","Havre","February",4.1,"Havre","Montana",48.5428,-109.7633
+"471","Havre","March",4.6,"Havre","Montana",48.5428,-109.7633
+"472","Havre","April",6.6,"Havre","Montana",48.5428,-109.7633
+"473","Havre","May",9.7,"Havre","Montana",48.5428,-109.7633
+"474","Havre","June",12.9,"Havre","Montana",48.5428,-109.7633
+"475","Havre","July",15.4,"Havre","Montana",48.5428,-109.7633
+"476","Havre","August",16.6,"Havre","Montana",48.5428,-109.7633
+"477","Havre","September",16.1,"Havre","Montana",48.5428,-109.7633
+"478","Havre","October",14,"Havre","Montana",48.5428,-109.7633
+"479","Havre","November",10.9,"Havre","Montana",48.5428,-109.7633
+"480","Havre","December",7.7,"Havre","Montana",48.5428,-109.7633
+"481","Helena","January",8.5,"Helena","Montana",46.6056,-111.9636
+"482","Helena","February",7.5,"Helena","Montana",46.6056,-111.9636
+"483","Helena","March",8.1,"Helena","Montana",46.6056,-111.9636
+"484","Helena","April",10.1,"Helena","Montana",46.6056,-111.9636
+"485","Helena","May",13.1,"Helena","Montana",46.6056,-111.9636
+"486","Helena","June",16.2,"Helena","Montana",46.6056,-111.9636
+"487","Helena","July",18.7,"Helena","Montana",46.6056,-111.9636
+"488","Helena","August",19.8,"Helena","Montana",46.6056,-111.9636
+"489","Helena","September",19.2,"Helena","Montana",46.6056,-111.9636
+"490","Helena","October",17.1,"Helena","Montana",46.6056,-111.9636
+"491","Helena","November",14.1,"Helena","Montana",46.6056,-111.9636
+"492","Helena","December",10.9,"Helena","Montana",46.6056,-111.9636
+"493","Houston","January",20.9,"Houston","Texas",29.98,-95.36
+"494","Houston","February",21.3,"Houston","Texas",29.98,-95.36
+"495","Houston","March",23.1,"Houston","Texas",29.98,-95.36
+"496","Houston","April",26.1,"Houston","Texas",29.98,-95.36
+"497","Houston","May",29.4,"Houston","Texas",29.98,-95.36
+"498","Houston","June",32.1,"Houston","Texas",29.98,-95.36
+"499","Houston","July",33.5,"Houston","Texas",29.98,-95.36
+"500","Houston","August",33.2,"Houston","Texas",29.98,-95.36
+"501","Houston","September",31.3,"Houston","Texas",29.98,-95.36
+"502","Houston","October",28.2,"Houston","Texas",29.98,-95.36
+"503","Houston","November",25,"Houston","Texas",29.98,-95.36
+"504","Houston","December",22.3,"Houston","Texas",29.98,-95.36
+"505","Huron","January",6.5,"Huron","South Dakota",44.3981,-98.2231
+"506","Huron","February",5.3,"Huron","South Dakota",44.3981,-98.2231
+"507","Huron","March",6.1,"Huron","South Dakota",44.3981,-98.2231
+"508","Huron","April",8.5,"Huron","South Dakota",44.3981,-98.2231
+"509","Huron","May",12,"Huron","South Dakota",44.3981,-98.2231
+"510","Huron","June",15.6,"Huron","South Dakota",44.3981,-98.2231
+"511","Huron","July",18.4,"Huron","South Dakota",44.3981,-98.2231
+"512","Huron","August",19.6,"Huron","South Dakota",44.3981,-98.2231
+"513","Huron","September",18.9,"Huron","South Dakota",44.3981,-98.2231
+"514","Huron","October",16.4,"Huron","South Dakota",44.3981,-98.2231
+"515","Huron","November",12.9,"Huron","South Dakota",44.3981,-98.2231
+"516","Huron","December",9.2,"Huron","South Dakota",44.3981,-98.2231
+"517","Indianapolis","January",11.5,"Indianapolis","Indiana",39.7075,-86.2803
+"518","Indianapolis","February",10.8,"Indianapolis","Indiana",39.7075,-86.2803
+"519","Indianapolis","March",12,"Indianapolis","Indiana",39.7075,-86.2803
+"520","Indianapolis","April",14.7,"Indianapolis","Indiana",39.7075,-86.2803
+"521","Indianapolis","May",18.3,"Indianapolis","Indiana",39.7075,-86.2803
+"522","Indianapolis","June",21.8,"Indianapolis","Indiana",39.7075,-86.2803
+"523","Indianapolis","July",24.2,"Indianapolis","Indiana",39.7075,-86.2803
+"524","Indianapolis","August",24.9,"Indianapolis","Indiana",39.7075,-86.2803
+"525","Indianapolis","September",23.7,"Indianapolis","Indiana",39.7075,-86.2803
+"526","Indianapolis","October",20.9,"Indianapolis","Indiana",39.7075,-86.2803
+"527","Indianapolis","November",17.3,"Indianapolis","Indiana",39.7075,-86.2803
+"528","Indianapolis","December",13.9,"Indianapolis","Indiana",39.7075,-86.2803
+"529","Jacksonville","January",21,"Jacksonville","Florida",30.4844,-81.7019
+"530","Jacksonville","February",21.3,"Jacksonville","Florida",30.4844,-81.7019
+"531","Jacksonville","March",23,"Jacksonville","Florida",30.4844,-81.7019
+"532","Jacksonville","April",25.7,"Jacksonville","Florida",30.4844,-81.7019
+"533","Jacksonville","May",28.7,"Jacksonville","Florida",30.4844,-81.7019
+"534","Jacksonville","June",31.2,"Jacksonville","Florida",30.4844,-81.7019
+"535","Jacksonville","July",32.5,"Jacksonville","Florida",30.4844,-81.7019
+"536","Jacksonville","August",32.3,"Jacksonville","Florida",30.4844,-81.7019
+"537","Jacksonville","September",30.5,"Jacksonville","Florida",30.4844,-81.7019
+"538","Jacksonville","October",27.7,"Jacksonville","Florida",30.4844,-81.7019
+"539","Jacksonville","November",24.7,"Jacksonville","Florida",30.4844,-81.7019
+"540","Jacksonville","December",22.2,"Jacksonville","Florida",30.4844,-81.7019
+"541","LaCrosse","January",9.2,"La Crosse","Wisconsin",43.8789,-91.2528
+"542","LaCrosse","February",8.2,"La Crosse","Wisconsin",43.8789,-91.2528
+"543","LaCrosse","March",9,"La Crosse","Wisconsin",43.8789,-91.2528
+"544","LaCrosse","April",11.5,"La Crosse","Wisconsin",43.8789,-91.2528
+"545","LaCrosse","May",14.9,"La Crosse","Wisconsin",43.8789,-91.2528
+"546","LaCrosse","June",18.5,"La Crosse","Wisconsin",43.8789,-91.2528
+"547","LaCrosse","July",21.2,"La Crosse","Wisconsin",43.8789,-91.2528
+"548","LaCrosse","August",22.3,"La Crosse","Wisconsin",43.8789,-91.2528
+"549","LaCrosse","September",21.4,"La Crosse","Wisconsin",43.8789,-91.2528
+"550","LaCrosse","October",18.9,"La Crosse","Wisconsin",43.8789,-91.2528
+"551","LaCrosse","November",15.4,"La Crosse","Wisconsin",43.8789,-91.2528
+"552","LaCrosse","December",11.8,"La Crosse","Wisconsin",43.8789,-91.2528
+"553","Lander","January",7.6,"Lander","Wyoming",42.8153,-108.7261
+"554","Lander","February",6.6,"Lander","Wyoming",42.8153,-108.7261
+"555","Lander","March",7.2,"Lander","Wyoming",42.8153,-108.7261
+"556","Lander","April",9.3,"Lander","Wyoming",42.8153,-108.7261
+"557","Lander","May",12.3,"Lander","Wyoming",42.8153,-108.7261
+"558","Lander","June",15.6,"Lander","Wyoming",42.8153,-108.7261
+"559","Lander","July",18.1,"Lander","Wyoming",42.8153,-108.7261
+"560","Lander","August",19.2,"Lander","Wyoming",42.8153,-108.7261
+"561","Lander","September",18.6,"Lander","Wyoming",42.8153,-108.7261
+"562","Lander","October",16.4,"Lander","Wyoming",42.8153,-108.7261
+"563","Lander","November",13.3,"Lander","Wyoming",42.8153,-108.7261
+"564","Lander","December",10.1,"Lander","Wyoming",42.8153,-108.7261
+"565","Lansing","January",10.5,"Lansing","Michigan",42.7803,-84.5789
+"566","Lansing","February",9.7,"Lansing","Michigan",42.7803,-84.5789
+"567","Lansing","March",10.4,"Lansing","Michigan",42.7803,-84.5789
+"568","Lansing","April",12.5,"Lansing","Michigan",42.7803,-84.5789
+"569","Lansing","May",15.5,"Lansing","Michigan",42.7803,-84.5789
+"570","Lansing","June",18.6,"Lansing","Michigan",42.7803,-84.5789
+"571","Lansing","July",20.9,"Lansing","Michigan",42.7803,-84.5789
+"572","Lansing","August",21.8,"Lansing","Michigan",42.7803,-84.5789
+"573","Lansing","September",21.1,"Lansing","Michigan",42.7803,-84.5789
+"574","Lansing","October",18.9,"Lansing","Michigan",42.7803,-84.5789
+"575","Lansing","November",15.9,"Lansing","Michigan",42.7803,-84.5789
+"576","Lansing","December",12.8,"Lansing","Michigan",42.7803,-84.5789
+"577","LosAngeles","January",20.4,"LosAngeles","California",34.0511,-118.2353
+"578","LosAngeles","February",20.4,"LosAngeles","California",34.0511,-118.2353
+"579","LosAngeles","March",21.3,"LosAngeles","California",34.0511,-118.2353
+"580","LosAngeles","April",22.9,"LosAngeles","California",34.0511,-118.2353
+"581","LosAngeles","May",24.7,"LosAngeles","California",34.0511,-118.2353
+"582","LosAngeles","June",26.2,"LosAngeles","California",34.0511,-118.2353
+"583","LosAngeles","July",27.1,"LosAngeles","California",34.0511,-118.2353
+"584","LosAngeles","August",27.1,"LosAngeles","California",34.0511,-118.2353
+"585","LosAngeles","September",26.2,"LosAngeles","California",34.0511,-118.2353
+"586","LosAngeles","October",24.6,"LosAngeles","California",34.0511,-118.2353
+"587","LosAngeles","November",22.8,"LosAngeles","California",34.0511,-118.2353
+"588","LosAngeles","December",21.3,"LosAngeles","California",34.0511,-118.2353
+"589","Louisville","January",14.2,"Louisville","Kentucky",38.1811,-85.7392
+"590","Louisville","February",13.8,"Louisville","Kentucky",38.1811,-85.7392
+"591","Louisville","March",15.2,"Louisville","Kentucky",38.1811,-85.7392
+"592","Louisville","April",18.2,"Louisville","Kentucky",38.1811,-85.7392
+"593","Louisville","May",21.9,"Louisville","Kentucky",38.1811,-85.7392
+"594","Louisville","June",25.4,"Louisville","Kentucky",38.1811,-85.7392
+"595","Louisville","July",27.7,"Louisville","Kentucky",38.1811,-85.7392
+"596","Louisville","August",28.1,"Louisville","Kentucky",38.1811,-85.7392
+"597","Louisville","September",26.6,"Louisville","Kentucky",38.1811,-85.7392
+"598","Louisville","October",23.6,"Louisville","Kentucky",38.1811,-85.7392
+"599","Louisville","November",19.9,"Louisville","Kentucky",38.1811,-85.7392
+"600","Louisville","December",16.4,"Louisville","Kentucky",38.1811,-85.7392
+"601","Lynchburg","January",13.3,"Lynchburg","Virginia",37.3208,-79.2067
+"602","Lynchburg","February",12.9,"Lynchburg","Virginia",37.3208,-79.2067
+"603","Lynchburg","March",14.2,"Lynchburg","Virginia",37.3208,-79.2067
+"604","Lynchburg","April",16.8,"Lynchburg","Virginia",37.3208,-79.2067
+"605","Lynchburg","May",20.2,"Lynchburg","Virginia",37.3208,-79.2067
+"606","Lynchburg","June",23.2,"Lynchburg","Virginia",37.3208,-79.2067
+"607","Lynchburg","July",25.3,"Lynchburg","Virginia",37.3208,-79.2067
+"608","Lynchburg","August",25.7,"Lynchburg","Virginia",37.3208,-79.2067
+"609","Lynchburg","September",24.4,"Lynchburg","Virginia",37.3208,-79.2067
+"610","Lynchburg","October",21.7,"Lynchburg","Virginia",37.3208,-79.2067
+"611","Lynchburg","November",18.4,"Lynchburg","Virginia",37.3208,-79.2067
+"612","Lynchburg","December",15.3,"Lynchburg","Virginia",37.3208,-79.2067
+"613","Madison","January",8.3,"Madison","Wisconsin",43.1406,-89.3453
+"614","Madison","February",7.3,"Madison","Wisconsin",43.1406,-89.3453
+"615","Madison","March",8.1,"Madison","Wisconsin",43.1406,-89.3453
+"616","Madison","April",10.3,"Madison","Wisconsin",43.1406,-89.3453
+"617","Madison","May",13.5,"Madison","Wisconsin",43.1406,-89.3453
+"618","Madison","June",16.8,"Madison","Wisconsin",43.1406,-89.3453
+"619","Madison","July",19.3,"Madison","Wisconsin",43.1406,-89.3453
+"620","Madison","August",20.3,"Madison","Wisconsin",43.1406,-89.3453
+"621","Madison","September",19.6,"Madison","Wisconsin",43.1406,-89.3453
+"622","Madison","October",17.3,"Madison","Wisconsin",43.1406,-89.3453
+"623","Madison","November",14,"Madison","Wisconsin",43.1406,-89.3453
+"624","Madison","December",10.8,"Madison","Wisconsin",43.1406,-89.3453
+"625","Memphis","January",15.8,"Memphis","Tennessee",35.0564,-89.9864
+"626","Memphis","February",15.7,"Memphis","Tennessee",35.0564,-89.9864
+"627","Memphis","March",17.5,"Memphis","Tennessee",35.0564,-89.9864
+"628","Memphis","April",20.8,"Memphis","Tennessee",35.0564,-89.9864
+"629","Memphis","May",24.7,"Memphis","Tennessee",35.0564,-89.9864
+"630","Memphis","June",28.2,"Memphis","Tennessee",35.0564,-89.9864
+"631","Memphis","July",30.2,"Memphis","Tennessee",35.0564,-89.9864
+"632","Memphis","August",30.3,"Memphis","Tennessee",35.0564,-89.9864
+"633","Memphis","September",28.5,"Memphis","Tennessee",35.0564,-89.9864
+"634","Memphis","October",25.1,"Memphis","Tennessee",35.0564,-89.9864
+"635","Memphis","November",21.2,"Memphis","Tennessee",35.0564,-89.9864
+"636","Memphis","December",17.8,"Memphis","Tennessee",35.0564,-89.9864
+"637","Meridian","January",18.3,"Meridian","Mississippi",32.3347,-88.7442
+"638","Meridian","February",18.3,"Meridian","Mississippi",32.3347,-88.7442
+"639","Meridian","March",20,"Meridian","Mississippi",32.3347,-88.7442
+"640","Meridian","April",23,"Meridian","Mississippi",32.3347,-88.7442
+"641","Meridian","May",26.5,"Meridian","Mississippi",32.3347,-88.7442
+"642","Meridian","June",29.5,"Meridian","Mississippi",32.3347,-88.7442
+"643","Meridian","July",31.2,"Meridian","Mississippi",32.3347,-88.7442
+"644","Meridian","August",31.2,"Meridian","Mississippi",32.3347,-88.7442
+"645","Meridian","September",29.4,"Meridian","Mississippi",32.3347,-88.7442
+"646","Meridian","October",26.4,"Meridian","Mississippi",32.3347,-88.7442
+"647","Meridian","November",22.9,"Meridian","Mississippi",32.3347,-88.7442
+"648","Meridian","December",19.9,"Meridian","Mississippi",32.3347,-88.7442
+"649","MiddletownHarrisburg","January",11.9,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"650","MiddletownHarrisburg","February",11.3,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"651","MiddletownHarrisburg","March",12.4,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"652","MiddletownHarrisburg","April",15,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"653","MiddletownHarrisburg","May",18.4,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"654","MiddletownHarrisburg","June",21.7,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"655","MiddletownHarrisburg","July",24,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"656","MiddletownHarrisburg","August",24.7,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"657","MiddletownHarrisburg","September",23.5,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"658","MiddletownHarrisburg","October",20.8,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"659","MiddletownHarrisburg","November",17.4,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"660","MiddletownHarrisburg","December",14.1,"Middletown Harrisburg","Pennsylvania",40.1936,-76.7633
+"661","Milwaukee","January",9.6,"Milwaukee","Wisconsin",42.955,-87.9044
+"662","Milwaukee","February",8.7,"Milwaukee","Wisconsin",42.955,-87.9044
+"663","Milwaukee","March",9.4,"Milwaukee","Wisconsin",42.955,-87.9044
+"664","Milwaukee","April",11.6,"Milwaukee","Wisconsin",42.955,-87.9044
+"665","Milwaukee","May",14.7,"Milwaukee","Wisconsin",42.955,-87.9044
+"666","Milwaukee","June",17.8,"Milwaukee","Wisconsin",42.955,-87.9044
+"667","Milwaukee","July",20.2,"Milwaukee","Wisconsin",42.955,-87.9044
+"668","Milwaukee","August",21.2,"Milwaukee","Wisconsin",42.955,-87.9044
+"669","Milwaukee","September",20.4,"Milwaukee","Wisconsin",42.955,-87.9044
+"670","Milwaukee","October",18.2,"Milwaukee","Wisconsin",42.955,-87.9044
+"671","Milwaukee","November",15.1,"Milwaukee","Wisconsin",42.955,-87.9044
+"672","Milwaukee","December",11.9,"Milwaukee","Wisconsin",42.955,-87.9044
+"673","Minneapolis","January",8.5,"Minneapolis","Minnesota",44.8831,-93.2289
+"674","Minneapolis","February",7.5,"Minneapolis","Minnesota",44.8831,-93.2289
+"675","Minneapolis","March",8.2,"Minneapolis","Minnesota",44.8831,-93.2289
+"676","Minneapolis","April",10.5,"Minneapolis","Minnesota",44.8831,-93.2289
+"677","Minneapolis","May",13.9,"Minneapolis","Minnesota",44.8831,-93.2289
+"678","Minneapolis","June",17.5,"Minneapolis","Minnesota",44.8831,-93.2289
+"679","Minneapolis","July",20.2,"Minneapolis","Minnesota",44.8831,-93.2289
+"680","Minneapolis","August",21.3,"Minneapolis","Minnesota",44.8831,-93.2289
+"681","Minneapolis","September",20.6,"Minneapolis","Minnesota",44.8831,-93.2289
+"682","Minneapolis","October",18.2,"Minneapolis","Minnesota",44.8831,-93.2289
+"683","Minneapolis","November",14.8,"Minneapolis","Minnesota",44.8831,-93.2289
+"684","Minneapolis","December",11.2,"Minneapolis","Minnesota",44.8831,-93.2289
+"685","Mobile","January",20.9,"Mobile","Alabama",30.6264,-88.0681
+"686","Mobile","February",21.1,"Mobile","Alabama",30.6264,-88.0681
+"687","Mobile","March",22.8,"Mobile","Alabama",30.6264,-88.0681
+"688","Mobile","April",25.6,"Mobile","Alabama",30.6264,-88.0681
+"689","Mobile","May",28.8,"Mobile","Alabama",30.6264,-88.0681
+"690","Mobile","June",31.4,"Mobile","Alabama",30.6264,-88.0681
+"691","Mobile","July",32.8,"Mobile","Alabama",30.6264,-88.0681
+"692","Mobile","August",32.6,"Mobile","Alabama",30.6264,-88.0681
+"693","Mobile","September",30.8,"Mobile","Alabama",30.6264,-88.0681
+"694","Mobile","October",28,"Mobile","Alabama",30.6264,-88.0681
+"695","Mobile","November",24.9,"Mobile","Alabama",30.6264,-88.0681
+"696","Mobile","December",22.3,"Mobile","Alabama",30.6264,-88.0681
+"697","Moline","January",9.7,"Moline","Illinois",41.4653,-90.5233
+"698","Moline","February",8.9,"Moline","Illinois",41.4653,-90.5233
+"699","Moline","March",9.9,"Moline","Illinois",41.4653,-90.5233
+"700","Moline","April",12.6,"Moline","Illinois",41.4653,-90.5233
+"701","Moline","May",16.2,"Moline","Illinois",41.4653,-90.5233
+"702","Moline","June",19.8,"Moline","Illinois",41.4653,-90.5233
+"703","Moline","July",22.4,"Moline","Illinois",41.4653,-90.5233
+"704","Moline","August",23.3,"Moline","Illinois",41.4653,-90.5233
+"705","Moline","September",22.2,"Moline","Illinois",41.4653,-90.5233
+"706","Moline","October",19.5,"Moline","Illinois",41.4653,-90.5233
+"707","Moline","November",15.8,"Moline","Illinois",41.4653,-90.5233
+"708","Moline","December",12.2,"Moline","Illinois",41.4653,-90.5233
+"709","Montgomery","January",18.6,"Montgomery","Alabama",32.2997,-86.4075
+"710","Montgomery","February",18.7,"Montgomery","Alabama",32.2997,-86.4075
+"711","Montgomery","March",20.5,"Montgomery","Alabama",32.2997,-86.4075
+"712","Montgomery","April",23.5,"Montgomery","Alabama",32.2997,-86.4075
+"713","Montgomery","May",26.9,"Montgomery","Alabama",32.2997,-86.4075
+"714","Montgomery","June",29.9,"Montgomery","Alabama",32.2997,-86.4075
+"715","Montgomery","July",31.5,"Montgomery","Alabama",32.2997,-86.4075
+"716","Montgomery","August",31.4,"Montgomery","Alabama",32.2997,-86.4075
+"717","Montgomery","September",29.6,"Montgomery","Alabama",32.2997,-86.4075
+"718","Montgomery","October",26.6,"Montgomery","Alabama",32.2997,-86.4075
+"719","Montgomery","November",23.1,"Montgomery","Alabama",32.2997,-86.4075
+"720","Montgomery","December",20.2,"Montgomery","Alabama",32.2997,-86.4075
+"721","Nashville","January",15,"Nashville","Tennessee",36.1189,-86.6892
+"722","Nashville","February",14.8,"Nashville","Tennessee",36.1189,-86.6892
+"723","Nashville","March",16.3,"Nashville","Tennessee",36.1189,-86.6892
+"724","Nashville","April",19.4,"Nashville","Tennessee",36.1189,-86.6892
+"725","Nashville","May",23.1,"Nashville","Tennessee",36.1189,-86.6892
+"726","Nashville","June",26.4,"Nashville","Tennessee",36.1189,-86.6892
+"727","Nashville","July",28.5,"Nashville","Tennessee",36.1189,-86.6892
+"728","Nashville","August",28.8,"Nashville","Tennessee",36.1189,-86.6892
+"729","Nashville","September",27.2,"Nashville","Tennessee",36.1189,-86.6892
+"730","Nashville","October",24.1,"Nashville","Tennessee",36.1189,-86.6892
+"731","Nashville","November",20.4,"Nashville","Tennessee",36.1189,-86.6892
+"732","Nashville","December",17.1,"Nashville","Tennessee",36.1189,-86.6892
+"733","NewYork","January",12.4,"New York","New York",40.7789,-73.9692
+"734","NewYork","February",11.9,"New York","New York",40.7789,-73.9692
+"735","NewYork","March",13,"New York","New York",40.7789,-73.9692
+"736","NewYork","April",15.5,"New York","New York",40.7789,-73.9692
+"737","NewYork","May",18.8,"New York","New York",40.7789,-73.9692
+"738","NewYork","June",21.9,"New York","New York",40.7789,-73.9692
+"739","NewYork","July",24,"New York","New York",40.7789,-73.9692
+"740","NewYork","August",24.6,"New York","New York",40.7789,-73.9692
+"741","NewYork","September",23.4,"New York","New York",40.7789,-73.9692
+"742","NewYork","October",20.9,"New York","New York",40.7789,-73.9692
+"743","NewYork","November",17.6,"New York","New York",40.7789,-73.9692
+"744","NewYork","December",14.5,"New York","New York",40.7789,-73.9692
+"745","NorfolkVA","January",16.3,"Norfolk","Virginia",36.9033,-76.1922
+"746","NorfolkVA","February",16.1,"Norfolk","Virginia",36.9033,-76.1922
+"747","NorfolkVA","March",17.5,"Norfolk","Virginia",36.9033,-76.1922
+"748","NorfolkVA","April",20.3,"Norfolk","Virginia",36.9033,-76.1922
+"749","NorfolkVA","May",23.7,"Norfolk","Virginia",36.9033,-76.1922
+"750","NorfolkVA","June",26.7,"Norfolk","Virginia",36.9033,-76.1922
+"751","NorfolkVA","July",28.6,"Norfolk","Virginia",36.9033,-76.1922
+"752","NorfolkVA","August",28.9,"Norfolk","Virginia",36.9033,-76.1922
+"753","NorfolkVA","September",27.4,"Norfolk","Virginia",36.9033,-76.1922
+"754","NorfolkVA","October",24.5,"Norfolk","Virginia",36.9033,-76.1922
+"755","NorfolkVA","November",21.2,"Norfolk","Virginia",36.9033,-76.1922
+"756","NorfolkVA","December",18.1,"Norfolk","Virginia",36.9033,-76.1922
+"757","NorthPlatte","January",8.4,"North Platte","Nebraska",41.1214,-100.6694
+"758","NorthPlatte","February",7.6,"North Platte","Nebraska",41.1214,-100.6694
+"759","NorthPlatte","March",8.5,"North Platte","Nebraska",41.1214,-100.6694
+"760","NorthPlatte","April",11,"North Platte","Nebraska",41.1214,-100.6694
+"761","NorthPlatte","May",14.5,"North Platte","Nebraska",41.1214,-100.6694
+"762","NorthPlatte","June",17.9,"North Platte","Nebraska",41.1214,-100.6694
+"763","NorthPlatte","July",20.4,"North Platte","Nebraska",41.1214,-100.6694
+"764","NorthPlatte","August",21.4,"North Platte","Nebraska",41.1214,-100.6694
+"765","NorthPlatte","September",20.4,"North Platte","Nebraska",41.1214,-100.6694
+"766","NorthPlatte","October",17.8,"North Platte","Nebraska",41.1214,-100.6694
+"767","NorthPlatte","November",14.4,"North Platte","Nebraska",41.1214,-100.6694
+"768","NorthPlatte","December",10.9,"North Platte","Nebraska",41.1214,-100.6694
+"769","Oklahoma","January",13.4,"Oklahoma","Oklahoma",35.3889,-97.6006
+"770","Oklahoma","February",13.2,"Oklahoma","Oklahoma",35.3889,-97.6006
+"771","Oklahoma","March",14.9,"Oklahoma","Oklahoma",35.3889,-97.6006
+"772","Oklahoma","April",18.1,"Oklahoma","Oklahoma",35.3889,-97.6006
+"773","Oklahoma","May",21.9,"Oklahoma","Oklahoma",35.3889,-97.6006
+"774","Oklahoma","June",25.4,"Oklahoma","Oklahoma",35.3889,-97.6006
+"775","Oklahoma","July",27.6,"Oklahoma","Oklahoma",35.3889,-97.6006
+"776","Oklahoma","August",27.8,"Oklahoma","Oklahoma",35.3889,-97.6006
+"777","Oklahoma","September",26.1,"Oklahoma","Oklahoma",35.3889,-97.6006
+"778","Oklahoma","October",22.8,"Oklahoma","Oklahoma",35.3889,-97.6006
+"779","Oklahoma","November",19,"Oklahoma","Oklahoma",35.3889,-97.6006
+"780","Oklahoma","December",15.5,"Oklahoma","Oklahoma",35.3889,-97.6006
+"781","Omaha","January",9.1,"Omaha","Nebraska",41.3103,-95.8992
+"782","Omaha","February",8.3,"Omaha","Nebraska",41.3103,-95.8992
+"783","Omaha","March",9.5,"Omaha","Nebraska",41.3103,-95.8992
+"784","Omaha","April",12.4,"Omaha","Nebraska",41.3103,-95.8992
+"785","Omaha","May",16.2,"Omaha","Nebraska",41.3103,-95.8992
+"786","Omaha","June",20,"Omaha","Nebraska",41.3103,-95.8992
+"787","Omaha","July",22.6,"Omaha","Nebraska",41.3103,-95.8992
+"788","Omaha","August",23.5,"Omaha","Nebraska",41.3103,-95.8992
+"789","Omaha","September",22.3,"Omaha","Nebraska",41.3103,-95.8992
+"790","Omaha","October",19.4,"Omaha","Nebraska",41.3103,-95.8992
+"791","Omaha","November",15.6,"Omaha","Nebraska",41.3103,-95.8992
+"792","Omaha","December",11.8,"Omaha","Nebraska",41.3103,-95.8992
+"793","Pensacola","January",21,"Pensacola","Florida",30.4781,-87.1869
+"794","Pensacola","February",21.2,"Pensacola","Florida",30.4781,-87.1869
+"795","Pensacola","March",22.9,"Pensacola","Florida",30.4781,-87.1869
+"796","Pensacola","April",25.7,"Pensacola","Florida",30.4781,-87.1869
+"797","Pensacola","May",28.8,"Pensacola","Florida",30.4781,-87.1869
+"798","Pensacola","June",31.3,"Pensacola","Florida",30.4781,-87.1869
+"799","Pensacola","July",32.7,"Pensacola","Florida",30.4781,-87.1869
+"800","Pensacola","August",32.5,"Pensacola","Florida",30.4781,-87.1869
+"801","Pensacola","September",30.7,"Pensacola","Florida",30.4781,-87.1869
+"802","Pensacola","October",27.9,"Pensacola","Florida",30.4781,-87.1869
+"803","Pensacola","November",24.9,"Pensacola","Florida",30.4781,-87.1869
+"804","Pensacola","December",22.3,"Pensacola","Florida",30.4781,-87.1869
+"805","Philadelphia","January",13,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"806","Philadelphia","February",12.5,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"807","Philadelphia","March",13.8,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"808","Philadelphia","April",16.5,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"809","Philadelphia","May",20,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"810","Philadelphia","June",23.3,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"811","Philadelphia","July",25.5,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"812","Philadelphia","August",26,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"813","Philadelphia","September",24.7,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"814","Philadelphia","October",22,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"815","Philadelphia","November",18.5,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"816","Philadelphia","December",15.2,"Philadelphia","Pennsylvania",39.8683,-75.2311
+"817","Phoenix","January",21.8,"Phoenix","Arizona",33.4278,-112.0039
+"818","Phoenix","February",22.5,"Phoenix","Arizona",33.4278,-112.0039
+"819","Phoenix","March",25,"Phoenix","Arizona",33.4278,-112.0039
+"820","Phoenix","April",28.8,"Phoenix","Arizona",33.4278,-112.0039
+"821","Phoenix","May",33,"Phoenix","Arizona",33.4278,-112.0039
+"822","Phoenix","June",36.3,"Phoenix","Arizona",33.4278,-112.0039
+"823","Phoenix","July",37.8,"Phoenix","Arizona",33.4278,-112.0039
+"824","Phoenix","August",37.2,"Phoenix","Arizona",33.4278,-112.0039
+"825","Phoenix","September",34.6,"Phoenix","Arizona",33.4278,-112.0039
+"826","Phoenix","October",30.8,"Phoenix","Arizona",33.4278,-112.0039
+"827","Phoenix","November",26.6,"Phoenix","Arizona",33.4278,-112.0039
+"828","Phoenix","December",23.4,"Phoenix","Arizona",33.4278,-112.0039
+"829","Pittsburgh","January",10.9,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"830","Pittsburgh","February",10.2,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"831","Pittsburgh","March",11.3,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"832","Pittsburgh","April",13.7,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"833","Pittsburgh","May",16.9,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"834","Pittsburgh","June",20.1,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"835","Pittsburgh","July",22.3,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"836","Pittsburgh","August",23,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"837","Pittsburgh","September",22,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"838","Pittsburgh","October",19.5,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"839","Pittsburgh","November",16.2,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"840","Pittsburgh","December",13.1,"Pittsburgh","Pennsylvania",40.4847,-80.2144
+"841","PortlandME","January",9.8,"Portland","Maine",43.6497,-70.3003
+"842","PortlandME","February",9,"Portland","Maine",43.6497,-70.3003
+"843","PortlandME","March",9.6,"Portland","Maine",43.6497,-70.3003
+"844","PortlandME","April",11.5,"Portland","Maine",43.6497,-70.3003
+"845","PortlandME","May",14.2,"Portland","Maine",43.6497,-70.3003
+"846","PortlandME","June",17,"Portland","Maine",43.6497,-70.3003
+"847","PortlandME","July",19.2,"Portland","Maine",43.6497,-70.3003
+"848","PortlandME","August",20,"Portland","Maine",43.6497,-70.3003
+"849","PortlandME","September",19.4,"Portland","Maine",43.6497,-70.3003
+"850","PortlandME","October",17.5,"Portland","Maine",43.6497,-70.3003
+"851","PortlandME","November",14.7,"Portland","Maine",43.6497,-70.3003
+"852","PortlandME","December",11.9,"Portland","Maine",43.6497,-70.3003
+"853","Raleigh","January",15.5,"Raleigh","North Carolina",35.8922,-78.7819
+"854","Raleigh","February",15.4,"Raleigh","North Carolina",35.8922,-78.7819
+"855","Raleigh","March",16.8,"Raleigh","North Carolina",35.8922,-78.7819
+"856","Raleigh","April",19.7,"Raleigh","North Carolina",35.8922,-78.7819
+"857","Raleigh","May",23.1,"Raleigh","North Carolina",35.8922,-78.7819
+"858","Raleigh","June",26.2,"Raleigh","North Carolina",35.8922,-78.7819
+"859","Raleigh","July",28.1,"Raleigh","North Carolina",35.8922,-78.7819
+"860","Raleigh","August",28.3,"Raleigh","North Carolina",35.8922,-78.7819
+"861","Raleigh","September",26.8,"Raleigh","North Carolina",35.8922,-78.7819
+"862","Raleigh","October",23.9,"Raleigh","North Carolina",35.8922,-78.7819
+"863","Raleigh","November",20.5,"Raleigh","North Carolina",35.8922,-78.7819
+"864","Raleigh","December",17.4,"Raleigh","North Carolina",35.8922,-78.7819
+"865","RochesterNY","January",9.9,"Rochester","New York",43.1167,-77.6767
+"866","RochesterNY","February",9.1,"Rochester","New York",43.1167,-77.6767
+"867","RochesterNY","March",9.8,"Rochester","New York",43.1167,-77.6767
+"868","RochesterNY","April",12,"Rochester","New York",43.1167,-77.6767
+"869","RochesterNY","May",14.9,"Rochester","New York",43.1167,-77.6767
+"870","RochesterNY","June",17.9,"Rochester","New York",43.1167,-77.6767
+"871","RochesterNY","July",20.2,"Rochester","New York",43.1167,-77.6767
+"872","RochesterNY","August",21,"Rochester","New York",43.1167,-77.6767
+"873","RochesterNY","September",20.2,"Rochester","New York",43.1167,-77.6767
+"874","RochesterNY","October",18,"Rochester","New York",43.1167,-77.6767
+"875","RochesterNY","November",15.1,"Rochester","New York",43.1167,-77.6767
+"876","RochesterNY","December",12.1,"Rochester","New York",43.1167,-77.6767
+"877","Roswell","January",17,"Roswell","New Mexico",33.3075,-104.5083
+"878","Roswell","February",16.9,"Roswell","New Mexico",33.3075,-104.5083
+"879","Roswell","March",18.4,"Roswell","New Mexico",33.3075,-104.5083
+"880","Roswell","April",21.4,"Roswell","New Mexico",33.3075,-104.5083
+"881","Roswell","May",25.1,"Roswell","New Mexico",33.3075,-104.5083
+"882","Roswell","June",28.4,"Roswell","New Mexico",33.3075,-104.5083
+"883","Roswell","July",30.4,"Roswell","New Mexico",33.3075,-104.5083
+"884","Roswell","August",30.6,"Roswell","New Mexico",33.3075,-104.5083
+"885","Roswell","September",29,"Roswell","New Mexico",33.3075,-104.5083
+"886","Roswell","October",25.9,"Roswell","New Mexico",33.3075,-104.5083
+"887","Roswell","November",22.3,"Roswell","New Mexico",33.3075,-104.5083
+"888","Roswell","December",19,"Roswell","New Mexico",33.3075,-104.5083
+"889","Sacramento","January",18.3,"Sacramento","California",38.5553,-121.4183
+"890","Sacramento","February",18.3,"Sacramento","California",38.5553,-121.4183
+"891","Sacramento","March",19.5,"Sacramento","California",38.5553,-121.4183
+"892","Sacramento","April",21.8,"Sacramento","California",38.5553,-121.4183
+"893","Sacramento","May",24.6,"Sacramento","California",38.5553,-121.4183
+"894","Sacramento","June",27.1,"Sacramento","California",38.5553,-121.4183
+"895","Sacramento","July",28.6,"Sacramento","California",38.5553,-121.4183
+"896","Sacramento","August",28.7,"Sacramento","California",38.5553,-121.4183
+"897","Sacramento","September",27.4,"Sacramento","California",38.5553,-121.4183
+"898","Sacramento","October",25,"Sacramento","California",38.5553,-121.4183
+"899","Sacramento","November",22.3,"Sacramento","California",38.5553,-121.4183
+"900","Sacramento","December",19.8,"Sacramento","California",38.5553,-121.4183
+"901","SaltLakeCity","January",12.5,"Salt Lake City","Utah",40.7781,-111.9694
+"902","SaltLakeCity","February",11.8,"Salt Lake City","Utah",40.7781,-111.9694
+"903","SaltLakeCity","March",12.9,"Salt Lake City","Utah",40.7781,-111.9694
+"904","SaltLakeCity","April",15.7,"Salt Lake City","Utah",40.7781,-111.9694
+"905","SaltLakeCity","May",19.3,"Salt Lake City","Utah",40.7781,-111.9694
+"906","SaltLakeCity","June",22.8,"Salt Lake City","Utah",40.7781,-111.9694
+"907","SaltLakeCity","July",25.2,"Salt Lake City","Utah",40.7781,-111.9694
+"908","SaltLakeCity","August",26,"Salt Lake City","Utah",40.7781,-111.9694
+"909","SaltLakeCity","September",24.8,"Salt Lake City","Utah",40.7781,-111.9694
+"910","SaltLakeCity","October",22.1,"Salt Lake City","Utah",40.7781,-111.9694
+"911","SaltLakeCity","November",18.4,"Salt Lake City","Utah",40.7781,-111.9694
+"912","SaltLakeCity","December",15,"Salt Lake City","Utah",40.7781,-111.9694
+"913","SanAntonio","January",20.5,"San Antonio","Texas",29.5442,-98.4839
+"914","SanAntonio","February",20.8,"San Antonio","Texas",29.5442,-98.4839
+"915","SanAntonio","March",22.8,"San Antonio","Texas",29.5442,-98.4839
+"916","SanAntonio","April",26,"San Antonio","Texas",29.5442,-98.4839
+"917","SanAntonio","May",29.5,"San Antonio","Texas",29.5442,-98.4839
+"918","SanAntonio","June",32.5,"San Antonio","Texas",29.5442,-98.4839
+"919","SanAntonio","July",34,"San Antonio","Texas",29.5442,-98.4839
+"920","SanAntonio","August",33.6,"San Antonio","Texas",29.5442,-98.4839
+"921","SanAntonio","September",31.6,"San Antonio","Texas",29.5442,-98.4839
+"922","SanAntonio","October",28.3,"San Antonio","Texas",29.5442,-98.4839
+"923","SanAntonio","November",24.8,"San Antonio","Texas",29.5442,-98.4839
+"924","SanAntonio","December",21.9,"San Antonio","Texas",29.5442,-98.4839
+"925","SaultSteMarie","January",8.2,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"926","SaultSteMarie","February",7.2,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"927","SaultSteMarie","March",7.5,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"928","SaultSteMarie","April",9.1,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"929","SaultSteMarie","May",11.6,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"930","SaultSteMarie","June",14.3,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"931","SaultSteMarie","July",16.5,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"932","SaultSteMarie","August",17.6,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"933","SaultSteMarie","September",17.2,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"934","SaultSteMarie","October",15.6,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"935","SaultSteMarie","November",13.1,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"936","SaultSteMarie","December",10.4,"Sault Ste Marie","Michigan",46.4794,-84.3572
+"937","Savannah","January",20.6,"Savannah","Georgia",32.13,-81.21
+"938","Savannah","February",20.8,"Savannah","Georgia",32.13,-81.21
+"939","Savannah","March",22.5,"Savannah","Georgia",32.13,-81.21
+"940","Savannah","April",25.3,"Savannah","Georgia",32.13,-81.21
+"941","Savannah","May",28.6,"Savannah","Georgia",32.13,-81.21
+"942","Savannah","June",31.3,"Savannah","Georgia",32.13,-81.21
+"943","Savannah","July",32.8,"Savannah","Georgia",32.13,-81.21
+"944","Savannah","August",32.6,"Savannah","Georgia",32.13,-81.21
+"945","Savannah","September",30.9,"Savannah","Georgia",32.13,-81.21
+"946","Savannah","October",28,"Savannah","Georgia",32.13,-81.21
+"947","Savannah","November",24.7,"Savannah","Georgia",32.13,-81.21
+"948","Savannah","December",22,"Savannah","Georgia",32.13,-81.21
+"949","Seattle","January",14.2,"Seattle","Washington",47.4444,-122.3139
+"950","Seattle","February",13.8,"Seattle","Washington",47.4444,-122.3139
+"951","Seattle","March",14.4,"Seattle","Washington",47.4444,-122.3139
+"952","Seattle","April",16,"Seattle","Washington",47.4444,-122.3139
+"953","Seattle","May",18,"Seattle","Washington",47.4444,-122.3139
+"954","Seattle","June",20,"Seattle","Washington",47.4444,-122.3139
+"955","Seattle","July",21.4,"Seattle","Washington",47.4444,-122.3139
+"956","Seattle","August",21.8,"Seattle","Washington",47.4444,-122.3139
+"957","Seattle","September",21.1,"Seattle","Washington",47.4444,-122.3139
+"958","Seattle","October",19.6,"Seattle","Washington",47.4444,-122.3139
+"959","Seattle","November",17.5,"Seattle","Washington",47.4444,-122.3139
+"960","Seattle","December",15.6,"Seattle","Washington",47.4444,-122.3139
+"961","Shreveport","January",18.1,"Shreveport","Louisiana",32.4506,-93.8411
+"962","Shreveport","February",18.2,"Shreveport","Louisiana",32.4506,-93.8411
+"963","Shreveport","March",20.1,"Shreveport","Louisiana",32.4506,-93.8411
+"964","Shreveport","April",23.3,"Shreveport","Louisiana",32.4506,-93.8411
+"965","Shreveport","May",27,"Shreveport","Louisiana",32.4506,-93.8411
+"966","Shreveport","June",30.1,"Shreveport","Louisiana",32.4506,-93.8411
+"967","Shreveport","July",31.8,"Shreveport","Louisiana",32.4506,-93.8411
+"968","Shreveport","August",31.7,"Shreveport","Louisiana",32.4506,-93.8411
+"969","Shreveport","September",29.7,"Shreveport","Louisiana",32.4506,-93.8411
+"970","Shreveport","October",26.5,"Shreveport","Louisiana",32.4506,-93.8411
+"971","Shreveport","November",22.8,"Shreveport","Louisiana",32.4506,-93.8411
+"972","Shreveport","December",19.8,"Shreveport","Louisiana",32.4506,-93.8411
+"973","SiouxFalls","January",7.6,"Sioux Falls","South Dakota",43.5878,-96.7289
+"974","SiouxFalls","February",6.6,"Sioux Falls","South Dakota",43.5878,-96.7289
+"975","SiouxFalls","March",7.4,"Sioux Falls","South Dakota",43.5878,-96.7289
+"976","SiouxFalls","April",9.8,"Sioux Falls","South Dakota",43.5878,-96.7289
+"977","SiouxFalls","May",13.3,"Sioux Falls","South Dakota",43.5878,-96.7289
+"978","SiouxFalls","June",17,"Sioux Falls","South Dakota",43.5878,-96.7289
+"979","SiouxFalls","July",19.7,"Sioux Falls","South Dakota",43.5878,-96.7289
+"980","SiouxFalls","August",20.8,"Sioux Falls","South Dakota",43.5878,-96.7289
+"981","SiouxFalls","September",20,"Sioux Falls","South Dakota",43.5878,-96.7289
+"982","SiouxFalls","October",17.5,"Sioux Falls","South Dakota",43.5878,-96.7289
+"983","SiouxFalls","November",14,"Sioux Falls","South Dakota",43.5878,-96.7289
+"984","SiouxFalls","December",10.4,"Sioux Falls","South Dakota",43.5878,-96.7289
+"985","Spokane","January",9.6,"Spokane","Washington",47.6217,-117.5281
+"986","Spokane","February",8.8,"Spokane","Washington",47.6217,-117.5281
+"987","Spokane","March",9.6,"Spokane","Washington",47.6217,-117.5281
+"988","Spokane","April",11.7,"Spokane","Washington",47.6217,-117.5281
+"989","Spokane","May",14.6,"Spokane","Washington",47.6217,-117.5281
+"990","Spokane","June",17.6,"Spokane","Washington",47.6217,-117.5281
+"991","Spokane","July",19.8,"Spokane","Washington",47.6217,-117.5281
+"992","Spokane","August",20.6,"Spokane","Washington",47.6217,-117.5281
+"993","Spokane","September",19.8,"Spokane","Washington",47.6217,-117.5281
+"994","Spokane","October",17.7,"Spokane","Washington",47.6217,-117.5281
+"995","Spokane","November",14.7,"Spokane","Washington",47.6217,-117.5281
+"996","Spokane","December",11.8,"Spokane","Washington",47.6217,-117.5281
+"997","Springfield","January",11,"Springfield ","Illinois",39.8447,-89.6839
+"998","Springfield","February",10.3,"Springfield ","Illinois",39.8447,-89.6839
+"999","Springfield","March",11.6,"Springfield ","Illinois",39.8447,-89.6839
+"1000","Springfield","April",14.4,"Springfield ","Illinois",39.8447,-89.6839
+"1001","Springfield","May",18.2,"Springfield ","Illinois",39.8447,-89.6839
+"1002","Springfield","June",21.7,"Springfield ","Illinois",39.8447,-89.6839
+"1003","Springfield","July",24.2,"Springfield ","Illinois",39.8447,-89.6839
+"1004","Springfield","August",24.9,"Springfield ","Illinois",39.8447,-89.6839
+"1005","Springfield","September",23.7,"Springfield ","Illinois",39.8447,-89.6839
+"1006","Springfield","October",20.7,"Springfield ","Illinois",39.8447,-89.6839
+"1007","Springfield","November",17,"Springfield ","Illinois",39.8447,-89.6839
+"1008","Springfield","December",13.4,"Springfield ","Illinois",39.8447,-89.6839
+"1009","SpringfieldMO","January",12.8,"Springfield","Missouri",37.2353,-93.4003
+"1010","SpringfieldMO","February",12.4,"Springfield","Missouri",37.2353,-93.4003
+"1011","SpringfieldMO","March",13.8,"Springfield","Missouri",37.2353,-93.4003
+"1012","SpringfieldMO","April",16.8,"Springfield","Missouri",37.2353,-93.4003
+"1013","SpringfieldMO","May",20.5,"Springfield","Missouri",37.2353,-93.4003
+"1014","SpringfieldMO","June",24,"Springfield","Missouri",37.2353,-93.4003
+"1015","SpringfieldMO","July",26.4,"Springfield","Missouri",37.2353,-93.4003
+"1016","SpringfieldMO","August",26.9,"Springfield","Missouri",37.2353,-93.4003
+"1017","SpringfieldMO","September",25.4,"Springfield","Missouri",37.2353,-93.4003
+"1018","SpringfieldMO","October",22.4,"Springfield","Missouri",37.2353,-93.4003
+"1019","SpringfieldMO","November",18.6,"Springfield","Missouri",37.2353,-93.4003
+"1020","SpringfieldMO","December",15.1,"Springfield","Missouri",37.2353,-93.4003
+"1021","Tampa","January",25.3,"Tampa","Florida",27.9619,-82.5403
+"1022","Tampa","February",25.7,"Tampa","Florida",27.9619,-82.5403
+"1023","Tampa","March",27.3,"Tampa","Florida",27.9619,-82.5403
+"1024","Tampa","April",29.6,"Tampa","Florida",27.9619,-82.5403
+"1025","Tampa","May",32.1,"Tampa","Florida",27.9619,-82.5403
+"1026","Tampa","June",34.1,"Tampa","Florida",27.9619,-82.5403
+"1027","Tampa","July",35,"Tampa","Florida",27.9619,-82.5403
+"1028","Tampa","August",34.6,"Tampa","Florida",27.9619,-82.5403
+"1029","Tampa","September",33.1,"Tampa","Florida",27.9619,-82.5403
+"1030","Tampa","October",30.7,"Tampa","Florida",27.9619,-82.5403
+"1031","Tampa","November",28.2,"Tampa","Florida",27.9619,-82.5403
+"1032","Tampa","December",26.2,"Tampa","Florida",27.9619,-82.5403
+"1033","Topeka","January",11.7,"Topeka","Kansas",39.0725,-95.6261
+"1034","Topeka","February",11.1,"Topeka","Kansas",39.0725,-95.6261
+"1035","Topeka","March",12.5,"Topeka","Kansas",39.0725,-95.6261
+"1036","Topeka","April",15.6,"Topeka","Kansas",39.0725,-95.6261
+"1037","Topeka","May",19.5,"Topeka","Kansas",39.0725,-95.6261
+"1038","Topeka","June",23.3,"Topeka","Kansas",39.0725,-95.6261
+"1039","Topeka","July",25.8,"Topeka","Kansas",39.0725,-95.6261
+"1040","Topeka","August",26.4,"Topeka","Kansas",39.0725,-95.6261
+"1041","Topeka","September",25,"Topeka","Kansas",39.0725,-95.6261
+"1042","Topeka","October",21.8,"Topeka","Kansas",39.0725,-95.6261
+"1043","Topeka","November",17.9,"Topeka","Kansas",39.0725,-95.6261
+"1044","Topeka","December",14.2,"Topeka","Kansas",39.0725,-95.6261
+"1045","Valentine","January",9.4,"Valentine","Nebraska",42.8783,-100.55
+"1046","Valentine","February",8.5,"Valentine","Nebraska",42.8783,-100.55
+"1047","Valentine","March",9.3,"Valentine","Nebraska",42.8783,-100.55
+"1048","Valentine","April",11.8,"Valentine","Nebraska",42.8783,-100.55
+"1049","Valentine","May",15.2,"Valentine","Nebraska",42.8783,-100.55
+"1050","Valentine","June",18.8,"Valentine","Nebraska",42.8783,-100.55
+"1051","Valentine","July",21.4,"Valentine","Nebraska",42.8783,-100.55
+"1052","Valentine","August",22.4,"Valentine","Nebraska",42.8783,-100.55
+"1053","Valentine","September",21.5,"Valentine","Nebraska",42.8783,-100.55
+"1054","Valentine","October",19,"Valentine","Nebraska",42.8783,-100.55
+"1055","Valentine","November",15.5,"Valentine","Nebraska",42.8783,-100.55
+"1056","Valentine","December",12,"Valentine","Nebraska",42.8783,-100.55
+"1057","WashingtonDC","January",15.3,"Washington DC","District of Columbia",38.8483,-77.0342
+"1058","WashingtonDC","February",15,"Washington DC","District of Columbia",38.8483,-77.0342
+"1059","WashingtonDC","March",16.3,"Washington DC","District of Columbia",38.8483,-77.0342
+"1060","WashingtonDC","April",19.1,"Washington DC","District of Columbia",38.8483,-77.0342
+"1061","WashingtonDC","May",22.5,"Washington DC","District of Columbia",38.8483,-77.0342
+"1062","WashingtonDC","June",25.7,"Washington DC","District of Columbia",38.8483,-77.0342
+"1063","WashingtonDC","July",27.9,"Washington DC","District of Columbia",38.8483,-77.0342
+"1064","WashingtonDC","August",28.3,"Washington DC","District of Columbia",38.8483,-77.0342
+"1065","WashingtonDC","September",26.9,"Washington DC","District of Columbia",38.8483,-77.0342
+"1066","WashingtonDC","October",24.1,"Washington DC","District of Columbia",38.8483,-77.0342
+"1067","WashingtonDC","November",20.6,"Washington DC","District of Columbia",38.8483,-77.0342
+"1068","WashingtonDC","December",17.4,"Washington DC","District of Columbia",38.8483,-77.0342
+"1069","Williston","January",4.9,"Williston","North Dakota",48.1739,-103.6367
+"1070","Williston","February",3.6,"Williston","North Dakota",48.1739,-103.6367
+"1071","Williston","March",4.1,"Williston","North Dakota",48.1739,-103.6367
+"1072","Williston","April",6.2,"Williston","North Dakota",48.1739,-103.6367
+"1073","Williston","May",9.3,"Williston","North Dakota",48.1739,-103.6367
+"1074","Williston","June",12.7,"Williston","North Dakota",48.1739,-103.6367
+"1075","Williston","July",15.5,"Williston","North Dakota",48.1739,-103.6367
+"1076","Williston","August",16.8,"Williston","North Dakota",48.1739,-103.6367
+"1077","Williston","September",16.3,"Williston","North Dakota",48.1739,-103.6367
+"1078","Williston","October",14.2,"Williston","North Dakota",48.1739,-103.6367
+"1079","Williston","November",11,"Williston","North Dakota",48.1739,-103.6367
+"1080","Williston","December",7.6,"Williston","North Dakota",48.1739,-103.6367
+"1081","Winnemucca","January",10.5,"Winnemucca","Nevada",40.9017,-117.8081
+"1082","Winnemucca","February",9.7,"Winnemucca","Nevada",40.9017,-117.8081
+"1083","Winnemucca","March",10.5,"Winnemucca","Nevada",40.9017,-117.8081
+"1084","Winnemucca","April",12.7,"Winnemucca","Nevada",40.9017,-117.8081
+"1085","Winnemucca","May",15.7,"Winnemucca","Nevada",40.9017,-117.8081
+"1086","Winnemucca","June",18.7,"Winnemucca","Nevada",40.9017,-117.8081
+"1087","Winnemucca","July",20.9,"Winnemucca","Nevada",40.9017,-117.8081
+"1088","Winnemucca","August",21.7,"Winnemucca","Nevada",40.9017,-117.8081
+"1089","Winnemucca","September",20.8,"Winnemucca","Nevada",40.9017,-117.8081
+"1090","Winnemucca","October",18.6,"Winnemucca","Nevada",40.9017,-117.8081
+"1091","Winnemucca","November",15.6,"Winnemucca","Nevada",40.9017,-117.8081
+"1092","Winnemucca","December",12.6,"Winnemucca","Nevada",40.9017,-117.8081
